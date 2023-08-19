@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about fundamental Machine Learning topics such as Gradient Descent, Naive Bayes, Decision Trees, and SVM. Over the summer, I have been expanding my knowledge of React, Javascript, and C# through YouTube tutorials, web resources, and learning by doing! 
 - 💞️ I’m on the lookout for a software-engineering related internship for summer 2024. The best way to contact me would be through email at edwinyee@ucsb.edu. 
 - 📫 How to reach me: edwinyee@ucsb.edu
-- ![linkedin-icon-256x256-9ge3d19k](https://github.com/Edwin-Yee/Edwin-Yee/assets/91923759/e3a9606c-51c7-40bc-ab9e-fa6857e7fda5) My LinkedIn Profile: https://www.linkedin.com/in/edwincyee/ 
+- My LinkedIn Profile: https://www.linkedin.com/in/edwincyee/ 
 
 
 <!---
