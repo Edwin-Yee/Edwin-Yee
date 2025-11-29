@@ -1,10 +1,12 @@
-- 👋 Hello! My name is @Edwin-Yee. I'm a senior pursuing my B.S. in computer science at UC Santa Barbara.
-- 📦 Check out my latest internship project! Automating Box User Management within UCSB using the UCSB Identity API and Box API: https://github.com/ucsb/PYTHON-AUTOUSERMGMT 
-- 👀 I’m interested in learning and discovering new topics! In the past year, I've been exploring natural langauge processing technologies (BERT, ChatGPT), stable diffusion (Stability AI), and machine learning techniques. I love creating projects and hope to gain more hands-on software opportunities through internships.
+- 👋 Hello! My name is @Edwin-Yee. I recently graduated with a Bachelor of Science (BS) in Computer Science from UC Santa Barbara.
+- :truck: 2025-Present Software Development Engineer SDE 1 @ Amazon (Minneapolis, MN) working in Sort Tech
+- :ship: 2024 Software Development Intern @ Amazon (Nashville, TN) working in Amazon Shipping
+- 📦 2023 Application Development intern @ UCSB (Santa Barbara, CA) Check out my Box internship project! Automating Box User Management within UCSB using the UCSB Identity API and Box API: https://github.com/ucsb/PYTHON-AUTOUSERMGMT 
+- 👀 I’m interested in learning and discovering new topics! In the past year, I've been exploring natural language processing technologies (BERT, Transformers, GPT, Agentic AI, MCP), stable diffusion (Stability AI), and machine learning techniques. I love creating projects and hope to continue improving my development skills.
 - 🌱 I’m currently learning about fundamental Machine Learning topics such as Gradient Descent, Naive Bayes, Decision Trees, and SVM. Over the summer, I have been expanding my knowledge of React, Javascript, and C# through YouTube tutorials, web resources, and learning by doing!
-- 💞️ I’m on the lookout for full time software-engineering and software-engineering related internship for summer 2025. The best way to contact me would be through email at edwinyee@ucsb.edu. 
+- 💞️ The best way to contact me would be through LinkedIn. You can also reach me through email at edwinyee@ucsb.edu. 
 - 📫 How to reach me: edwinyee@ucsb.edu
-- My LinkedIn Profile: https://www.linkedin.com/in/edwincyee/ 
+- :information_source: My LinkedIn Profile: https://www.linkedin.com/in/edwincyee/ 
 
 
 <!---
